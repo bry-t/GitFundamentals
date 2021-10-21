@@ -6,7 +6,7 @@ Take GitHub for example. While it is the technology that allows you to create lo
 
 **Note**: While the repos (local and remote) are related and track the same project, they can have different states if changes are not shared between the two.
 
-###Adding a remote
+### Adding a remote
 
 A remote can be added with the `git remote add` command, followed by the name and location of the remote.
 
@@ -16,14 +16,14 @@ The name is a local name, meaning it's your label and does not impact the actual
 git remote add origin https://github.com/ElevenFiftyAcademy/GitFundamentals.git
 ```
 
-###Removing a remote
+### Removing a remote
 
 A remote can be removed with the `git remote remove` command, followed by the name of the remote. 
 
 ```
 git remote remove origin
 ```
-##Resources
+## Resources
 
 - [Git Remote Documentation](https://git-scm.com/docs/git-remote)
 
